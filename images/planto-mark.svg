@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-labelledby="title">
+  <title id="title">Planto leaf mark</title>
+  <circle cx="50" cy="50" r="46" fill="none" stroke="#7bd66f" stroke-width="3"/>
+  <path d="M50 76V43" fill="none" stroke="#f0f3df" stroke-width="4" stroke-linecap="round"/>
+  <path d="M49 49C34 48 25 39 27 25c13 1 23 9 22 24Z" fill="#39a852"/>
+  <path d="M51 46C50 31 58 21 73 19c1 14-7 25-22 27Z" fill="#72d66d"/>
+  <path d="M49 63C34 62 26 54 27 42c12 1 22 8 22 21Z" fill="#258d45"/>
+  <path d="M51 61C51 48 59 39 72 37c1 13-7 23-21 24Z" fill="#49bd58"/>
+  <path d="M48 75C38 74 32 68 33 59c9 1 15 6 15 16Z" fill="#65c95e"/>
+  <path d="M52 75C52 65 58 59 68 58c0 10-6 16-16 17Z" fill="#2e9c49"/>
+</svg>
