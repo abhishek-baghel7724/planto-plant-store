@@ -111,7 +111,7 @@ main{
   margin: auto;
   padding: 24px 4%;
   display: grid;
-  grid-template-columns: 1fr 420px;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 420px);
   align-items: center;
   gap: 60px;
   box-sizing: border-box;
@@ -253,7 +253,7 @@ main{
   background: white;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
   .hero-layout {
     grid-template-columns: 1fr;
   }
